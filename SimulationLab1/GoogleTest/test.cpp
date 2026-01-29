@@ -8,6 +8,8 @@ TEST(TestCaseName, TestName) {
   EXPECT_TRUE(true);
 }
 
+#pragma region Q1 Sphere-Sphere Collision Tests
+
 TEST(SphereSphereCollision, NoIntersectionCentreAtOrigin) {
 	Sphere sphereA(glm::vec3(0, 0, 0), 1);
 	Sphere sphereB(glm::vec3(5, 0, 0), 1);
@@ -49,3 +51,6 @@ TEST(SphereSphereCollision, ContainedOffsetOrigin) {
 
 	EXPECT_TRUE(sphereA.Intersects(sphereB));
 }
+
+#pragma endregion
+
