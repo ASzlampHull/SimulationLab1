@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\",
+  "WorkspaceRootPath": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C58DD49-EDB2-47B4-8493-D795B06E8931}|GoogleTest\\GoogleTest.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\GoogleTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8C58DD49-EDB2-47B4-8493-D795B06E8931}|GoogleTest\\GoogleTest.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\GoogleTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C58DD49-EDB2-47B4-8493-D795B06E8931}|GoogleTest\\GoogleTest.vcxproj|solutionrelative:GoogleTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SimulationLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sphere.cpp",
+              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp",
+              "RelativeDocumentMoniker": "SimulationLab1\\Sphere.cpp",
+              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp",
+              "RelativeToolTip": "SimulationLab1\\Sphere.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T13:30:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h",
+              "RelativeDocumentMoniker": "SimulationLab1\\Sphere.h",
+              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h",
+              "RelativeToolTip": "SimulationLab1\\Sphere.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-29T13:30:12.45Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
-              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\GoogleTest\\test.cpp",
+              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\GoogleTest\\test.cpp",
               "RelativeDocumentMoniker": "GoogleTest\\test.cpp",
-              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\GoogleTest\\test.cpp",
+              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\GoogleTest\\test.cpp",
               "RelativeToolTip": "GoogleTest\\test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-29T13:20:49.783Z",
               "EditorCaption": ""
@@ -37,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SimulationLab1.cpp",
-              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp",
+              "DocumentMoniker": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp",
               "RelativeDocumentMoniker": "SimulationLab1\\SimulationLab1.cpp",
-              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationsAndConcurrency\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp",
+              "ToolTip": "C:\\Users\\928907\\source\\repos\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp",
               "RelativeToolTip": "SimulationLab1\\SimulationLab1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-29T13:20:15.423Z",
               "EditorCaption": ""

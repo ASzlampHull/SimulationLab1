@@ -42,3 +42,8 @@
 
 #CoPilot
 *.vsidx
+*.opendb
+
+#Logs
+*.log
+*.tlog
