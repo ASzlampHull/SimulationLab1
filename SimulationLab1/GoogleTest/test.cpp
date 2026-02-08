@@ -1,5 +1,6 @@
 #include "pch.h"
 #include "../SimulationLab1/Sphere.h"
+#include "../SimulationLab1/LinePoint.h"
 #include <glm.hpp>
 #include <gtc/matrix_transform.hpp>
 
@@ -54,3 +55,32 @@ TEST(SphereSphereCollision, ContainedOffsetOrigin) {
 
 #pragma endregion
 
+#pragma region Q2 Closest Distance from a Point to a Line
+
+TEST(ClosestDistanceToLine, ClosePointOnLine) {
+	LinePoint linePoint(glm::vec3(1, 1, 1), glm::vec3(0, 0, 0), glm::vec3(2, 3, 4));
+	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 1.41f);
+}
+
+TEST(ClosestDistanceToLine, GenIsOnLine) {
+	LinePoint linePoint(glm::vec3(1, 2, 3), glm::vec3(0, 0, 0), glm::vec3(3, 6, 9));
+	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 0.0f);
+}
+
+TEST(ClosestDistanceToLine, VertLineCase) {
+	LinePoint linePoint(glm::vec3(0, 0, 1), glm::vec3(2, 2, 0), glm::vec3(4, 5, 3));
+	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 3.61f);
+}
+
+TEST(ClosestDistanceToLine, HoriLineCase) {
+	LinePoint linePoint(glm::vec3(1, 0, 0), glm::vec3(0, 0, 0), glm::vec3(3, 4, 5));
+	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 6.40f);
+}
+
+TEST(ClosestDistanceToLine, DiagLineCase) {
+	LinePoint linePoint(glm::vec3(1, -1, 1), glm::vec3(1, 1, 1), glm::vec3(2, 5, 3));
+	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 4.55f);
+}
+
+
+#pragma endregion
