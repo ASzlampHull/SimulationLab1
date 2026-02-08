@@ -16,5 +16,5 @@ public:
 	}
 	~SphereLine() = default;
 
-	bool DoesLineIntersectSphere() const;
+	 bool DoesLineIntersectSphere() const;
 };

@@ -30,6 +30,9 @@
     <ClInclude Include="SphereLine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PointToPlane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SimulationLab1.cpp">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SphereLine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointToPlane.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -5,6 +5,7 @@
 #include "framework.h"
 #include "Sphere.h"
 #include "LinePoint.h"
+#include "SphereLine.h"
 
 // TODO: This is an example of a library function
 void fnSimulationLab1()
