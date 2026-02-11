@@ -7,36 +7,16 @@
       "RelativeMoniker": "D:0:0:{8C58DD49-EDB2-47B4-8493-D795B06E8931}|GoogleTest\\GoogleTest.vcxproj|solutionrelative:GoogleTest\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\PointToPlane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SpherePlane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SpherePlane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SimulationLab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\PointToPlane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\LinePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\LinePoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SphereLine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\SphereLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1E8F1027-8C43-44CC-A8E3-A3AEFF4C0690}|SimulationLab1\\SimulationLab1.vcxproj|solutionrelative:SimulationLab1\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,97 +26,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpherePlane.cpp",
+              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.cpp",
+              "RelativeDocumentMoniker": "SimulationLab1\\SpherePlane.cpp",
+              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.cpp",
+              "RelativeToolTip": "SimulationLab1\\SpherePlane.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T15:03:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PointToPlane.cpp",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.cpp",
-              "RelativeDocumentMoniker": "SimulationLab1\\PointToPlane.cpp",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.cpp",
-              "RelativeToolTip": "SimulationLab1\\PointToPlane.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-08T04:01:31.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PointToPlane.h",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.h",
-              "RelativeDocumentMoniker": "SimulationLab1\\PointToPlane.h",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\PointToPlane.h",
-              "RelativeToolTip": "SimulationLab1\\PointToPlane.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Title": "SpherePlane.h",
+              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.h",
+              "RelativeDocumentMoniker": "SimulationLab1\\SpherePlane.h",
+              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SpherePlane.h",
+              "RelativeToolTip": "SimulationLab1\\SpherePlane.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-08T04:01:22.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Sphere.cpp",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp",
-              "RelativeDocumentMoniker": "SimulationLab1\\Sphere.cpp",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.cpp",
-              "RelativeToolTip": "SimulationLab1\\Sphere.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-07T19:02:58.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LinePoint.cpp",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\LinePoint.cpp",
-              "RelativeDocumentMoniker": "SimulationLab1\\LinePoint.cpp",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\LinePoint.cpp",
-              "RelativeToolTip": "SimulationLab1\\LinePoint.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-07T19:02:57.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sphere.h",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h",
-              "RelativeDocumentMoniker": "SimulationLab1\\Sphere.h",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\Sphere.h",
-              "RelativeToolTip": "SimulationLab1\\Sphere.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-07T18:55:17.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SphereLine.cpp",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.cpp",
-              "RelativeDocumentMoniker": "SimulationLab1\\SphereLine.cpp",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.cpp",
-              "RelativeToolTip": "SimulationLab1\\SphereLine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-07T18:54:07.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SphereLine.h",
-              "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.h",
-              "RelativeDocumentMoniker": "SimulationLab1\\SphereLine.h",
-              "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SphereLine.h",
-              "RelativeToolTip": "SimulationLab1\\SphereLine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-07T18:53:56.594Z",
+              "WhenOpened": "2026-02-11T15:03:11.403Z",
               "EditorCaption": ""
             },
             {
@@ -147,14 +62,14 @@
               "RelativeDocumentMoniker": "GoogleTest\\test.cpp",
               "ToolTip": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\GoogleTest\\test.cpp",
               "RelativeToolTip": "GoogleTest\\test.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAALgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-29T13:20:49.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SimulationLab1.cpp",
               "DocumentMoniker": "C:\\Users\\Adam\\Documents\\UniWork\\C\u002B\u002B\\SimulationLab1\\SimulationLab1\\SimulationLab1\\SimulationLab1.cpp",
               "RelativeDocumentMoniker": "SimulationLab1\\SimulationLab1.cpp",

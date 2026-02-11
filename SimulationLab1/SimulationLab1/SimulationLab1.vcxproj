@@ -147,6 +147,7 @@
     <ClInclude Include="PointToPlane.h" />
     <ClInclude Include="Sphere.h" />
     <ClInclude Include="SphereLine.h" />
+    <ClInclude Include="SpherePlane.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinePoint.cpp" />
@@ -160,6 +161,7 @@
     <ClCompile Include="SimulationLab1.cpp" />
     <ClCompile Include="Sphere.cpp" />
     <ClCompile Include="SphereLine.cpp" />
+    <ClCompile Include="SpherePlane.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
