@@ -86,7 +86,6 @@ TEST(ClosestDistanceToLine, DiagLineCase) {
 	EXPECT_FLOAT_EQ(linePoint.ClosetDistanceToLine(), 4.55f);
 }
 
-
 #pragma endregion
 
 #pragma region Q3 Sphere Line Intersection Test
